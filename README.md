@@ -3,12 +3,15 @@ alcohol detection in breathed air
 
 **The components used in the projects**
 
-  -MQ2 sensor
-  -Arduino Nano
-  -LEDs
-  -LCD(I2C LCD)
-  -9V battery
-  -jumper wires
-
-![fritzing diagram](./master/alcohol-detection-in-breathed-air/circuit/Fritzing file/fritzing diagram.png)
+  - MQ2 sensor
+  - Arduino Nano
+  - LEDs(RGB)
+  - LCD(I2C LCD)
+  - 9V battery
+  - jumper wires
+  
+  *Arduino code and circuit diagram are in the master branch*
+  
+The fritzing diagram
+![fritzing diagram](https://github.com/jovyinny/alcohol-detection-in-breathed-air/blob/master/circuit/Fritzing%20file/fritzing%20diagram.png)
 
