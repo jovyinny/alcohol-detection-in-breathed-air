@@ -8,4 +8,5 @@ alcohol detection in breathed air
   -9V battery
   -jumper wires
 
-![fritzing diagram](/master/circuit/Fritzing file/fritzing diagram.png)
+![fritzing diagram](/master/alcohol-detection-in-breathed-air/circuit/Fritzing file//fritzing diagram.png)
+
